@@ -1,0 +1,8 @@
+# Ignore the target directory
+target/
+
+# Ignore the .idea directory
+.idea/
+
+# Ignore application.properties file
+src/main/resources/application.properties

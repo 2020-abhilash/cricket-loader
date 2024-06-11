@@ -1,0 +1,9 @@
+@startuml data_model
+
+entity Match {
+    Info {
+        balls_per_over
+    }
+}
+
+@enduml

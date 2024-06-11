@@ -1,0 +1,7 @@
+jdbcUrl=jdbc:postgresql://localhost:5432/postgres
+username=
+password=
+maximumPoolSize=20
+connectionTimeout=60000
+leakDetectionThreshold=2000
+csvFileDirectoryPath=F:\\all_csv2
